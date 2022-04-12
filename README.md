@@ -1,6 +1,6 @@
 # Time-Series-Project
 
-# Group Members
+# Collaborators
 
 Daisy Lynn Wanjiru
 
