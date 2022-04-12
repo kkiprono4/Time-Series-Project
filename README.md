@@ -52,3 +52,7 @@ NOTE: the above libraries are just a portion of the libraries needed
 # License
 
 MIT license was used
+
+Copyright (c)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files
