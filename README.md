@@ -47,7 +47,7 @@ from tensorflow.keras.layers import LSTM - for LSTM model
 import fbprophet
 from fbprophet import Prophet - for fbprophet model
 
-NOTE: the above libraries are a portion of the libraries needed
+NOTE: the above libraries are just a portion of the libraries needed
 
 # License
 
